@@ -1,1 +1,1 @@
-The CONTRIBUTING.md file appears under a section named “Changes not staged for commit” — which means that a file that is tracked has been modified in the working directory but not yet staged. Understaning vim now!!! Commit the document.nd check the status
+The CONTRIBUTING.md file appears under a section named “Changes not staged for commit” — which means that a file that is tracked has been modified in the working directory but not yet staged. Understaning vim now!!! Commit the document and check the status. Hello
